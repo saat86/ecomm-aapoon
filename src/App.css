@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.css-heg063-MuiTabs-flexContainer {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.css-13xfq8m-MuiTabPanel-root{
+padding: 10px 0;}
