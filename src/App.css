@@ -36,7 +36,7 @@
     transform: rotate(360deg);
   }
 }
-.css-heg063-MuiTabs-flexContainer {
+.flex-col > div >div  {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
